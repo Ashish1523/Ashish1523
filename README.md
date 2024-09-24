@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashish.chandra022@gmail.com
 - 😄 Pronouns: He/Him
