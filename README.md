@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A dedicated 3rd-year B.Tech Computer Science and Engineering student with expertise in Python, machine learning and computer vision.</h3>
+<h3 align="center">A dedicated 4rd-year B.Tech Computer Science and Engineering student with expertise in Python, machine learning and computer vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1523&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1523" /> </p>
 
